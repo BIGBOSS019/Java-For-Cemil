@@ -33,12 +33,51 @@ public class Home3 {
             this.secretCode = pass;
         }
 
-        
+
         public void showProfile() {
             System.out.println("=== Данные пользователя ===");
             System.out.println("Логин: " + (login != null ? login : "не указан"));
             System.out.println("Email: " + (mail != null ? mail : "не указан"));
             System.out.println("Пароль: [скрыто]");
         }
+
+    public static class User {
+        private String age;
+
+        public void setUsername(String eliyevv019) {
+        }
+
+        public void login(String eliyevv019) {
+        }
+
+    
+        public void main(String number) {
+        }
+
+        public void age(String number) {
+        }
+
+        public String main() {
+            return "";
+        }
+
+        
+
+        public void setAge(String age) {
+            this.age = age;
+        }
+
+        public void User() {
+        }
+
+        public String login() {
+            return "";
+        }
+
+
+        public String getAge() {
+            return age;
+        }
     }
+}
 

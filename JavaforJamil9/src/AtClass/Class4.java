@@ -50,11 +50,11 @@ public class Class4 {
             this.surname = surname;
         }
 
-        public String gender() {
-            return gender;
+        public String getGender() {
+            return surname;
         }
 
-        public void setGender(String gender) {
+        public void setGender(String Gender) {
             this.gender = gender;
         }
 
